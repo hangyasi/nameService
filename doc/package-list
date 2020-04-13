@@ -1,0 +1,5 @@
+com.hangyasi.study.nameserver
+com.hangyasi.study.nameserver.controller
+com.hangyasi.study.nameserver.entity
+com.hangyasi.study.nameserver.repository
+com.hangyasi.study.nameserver.service
